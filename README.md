@@ -472,9 +472,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- Project Lead: lead@climateguard.ai
-- Support: support@climateguard.ai
-- Website: https://climateguard.ai
+- Project Lead: harsh9760verma@gmail.com
 
 ## 🗺️ Roadmap
 
